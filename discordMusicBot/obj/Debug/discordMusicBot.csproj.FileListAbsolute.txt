@@ -1,1 +1,7 @@
 E:\Sync\BTSync\Code\CSharp\discordMusicBot\discordMusicBot\bin\Debug\discordMusicBot.exe.config
+C:\Users\Jason\Source\Repos\DiscordMusicBot\discordMusicBot\bin\Debug\discordMusicBot.exe.config
+C:\Users\Jason\Source\Repos\DiscordMusicBot\discordMusicBot\bin\Debug\discordMusicBot.exe
+C:\Users\Jason\Source\Repos\DiscordMusicBot\discordMusicBot\bin\Debug\discordMusicBot.pdb
+C:\Users\Jason\Source\Repos\DiscordMusicBot\discordMusicBot\obj\Debug\discordMusicBot.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Source\Repos\DiscordMusicBot\discordMusicBot\obj\Debug\discordMusicBot.exe
+C:\Users\Jason\Source\Repos\DiscordMusicBot\discordMusicBot\obj\Debug\discordMusicBot.pdb
